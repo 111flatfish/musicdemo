@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68f2211a-ffd9-4eb4-b0bd-899ec8a74823" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/Vue_Music_Blur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/error.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-...black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-RANDOM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-SEQUENTIAL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-SINGLE.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-back-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-erji.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-jiantou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-mv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-mvcount.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-playing.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-shangyiqu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-singer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-volue-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-volue-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon-xiayiqu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/assets/loading.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/ActionSheet.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Album.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Lyric.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Play.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/PlayingList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/RankPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Recommand.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/components/Singer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/config/def.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/components/actionsheet/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/components/actionsheet/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/components/actionsheet/metas.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/components/mvitem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/libs/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/libs/eventor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/libs/mixin_uuid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/libs/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/libs/trim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/mixins/multi-items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/1px.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/center.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/loading.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/reddot.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/reset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/tap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/transition.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/variable.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/fn.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/mixin/mobile.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/mixin/setArrow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/mixin/setChecked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/mixin/setOnepx.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/mixin/text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/reset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/global.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/monokai.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/weui_button.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/weui_cell.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/weui_grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/weui_msg.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/base/variable/weui_progress.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/icon/weui_font.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/icon/weui_icon_font.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/weui.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_default.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_disabled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_global.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_plain.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_primary.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_btn_warn.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_button/weui_button.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_access.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_cell_global.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_check.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_check/weui_check_common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_check/weui_checkbox.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_check/weui_radio.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form/weui_form_common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form/weui_select.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form/weui_select_after.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form/weui_select_before.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_form/weui_vcode.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_switch.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_cell/weui_uploader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_grid/weui_grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_media_box/weui_media_box.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_page/weui_article.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_page/weui_msg.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_panel/weui_panel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_progress/weui_progress.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_searchbar/weui_searchbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tab/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tab/tabbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tab/weui_tab.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tab/weui_tab_tabbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tips/weui_actionsheet.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tips/weui_dialog.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tips/weui_mask.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/lib/styles/weui/widget/weui_tips/weui_toast.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/store/NotifyService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/store/PlayService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/utils/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/musicdemo/src/utils/evnetbus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/musicdemo/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicdemo/src/views/Home.vue" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/musicdemo" />
+  </component>
+  <component name="ProjectId" id="1dOTyyBoTLRR4jiLS7wpgccOIDI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/musicdemo/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\webstorm\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86156\Desktop\面试\vue-demo\musicdemo\musicdemo\src\components" />
+      <recent name="C:\Users\86156\Desktop\面试\vue-demo\musicdemo\musicdemo\src\lib" />
+      <recent name="C:\Users\86156\Desktop\面试\vue-demo\musicdemo\musicdemo\src" />
+      <recent name="C:\Users\86156\Desktop\面试\vue-demo\musicdemo\musicdemo\src\store" />
+      <recent name="C:\Users\86156\Desktop\面试\vue-demo\musicdemo\musicdemo\src\config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f2211a-ffd9-4eb4-b0bd-899ec8a74823" name="Default Changelist" comment="" />
+      <created>1592295397218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592295397218</updated>
+      <workItem from="1592295398536" duration="68962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="545" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592466349614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="203" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592466349614" />
+    <state x="567" y="166" key="FileChooserDialogImpl" timestamp="1592315886833">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="567" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592315886833" />
+    <state x="440" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592358283874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="440" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592358283874" />
+  </component>
+</project>
